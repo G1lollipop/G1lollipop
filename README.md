@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hongbo Yu (Herbert)
 
-<!--
-**G1lollipop/G1lollipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Master of Computer Science student at Rice University in Houston, graduating in December 2027. I build backend systems and applied AI products, with experience in recoverable agent workflows, payment services, and retrieval-powered applications. I’m seeking software engineering and AI engineering internships in the U.S.
 
-Here are some ideas to get you started:
+## Explore my work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[FitCore](https://g1lollipop.github.io/#projects)** is a fitness and nutrition platform with conversational coaching and food logging from text, voice transcripts, and photos. [Try the live app](https://fitcore-web-eight.vercel.app/) (sign-in required).
+- **[Engineering portfolio](https://g1lollipop.github.io/)** brings together my experience, projects, education, and contact information. The [source is available here](https://github.com/G1lollipop/G1lollipop.github.io).
+
+My work spans Java and Go backend services, Python and FastAPI, PostgreSQL and Redis, and applied AI tools including LangGraph and retrieval systems. The portfolio has more detail about the problems I worked on and the decisions behind each project.
+
+## Get in touch
+
+[Email](mailto:hy75@rice.edu) · [LinkedIn](https://www.linkedin.com/in/herbert-yu-rice/) · [Portfolio](https://g1lollipop.github.io/)
