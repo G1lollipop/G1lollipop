@@ -4,7 +4,7 @@ I’m a Master of Computer Science student at Rice University in Houston, gradua
 
 ## Explore my work
 
-- **[FitCore](https://g1lollipop.github.io/#projects)** is a fitness and nutrition platform with conversational coaching and food logging from text, voice transcripts, and photos. [Try the live app](https://fitcore-web-eight.vercel.app/) (sign-in required).
+- **[FitCore](https://github.com/G1lollipop/fitcore)** is a fitness and nutrition platform with conversational coaching and food logging from text, voice transcripts, and photos. [View the source](https://github.com/G1lollipop/fitcore) or [try the live app](https://fitcore-web-eight.vercel.app/) (sign-in required).
 - **[Engineering portfolio](https://g1lollipop.github.io/)** brings together my experience, projects, education, and contact information. The [source is available here](https://github.com/G1lollipop/G1lollipop.github.io).
 
 My work spans Java and Go backend services, Python and FastAPI, PostgreSQL and Redis, and applied AI tools including LangGraph and retrieval systems. The portfolio has more detail about the problems I worked on and the decisions behind each project.
