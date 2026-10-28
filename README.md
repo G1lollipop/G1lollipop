@@ -1,14 +1,48 @@
-# Hongbo Yu (Herbert)
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Hongbo Yu (Herbert) — software engineering and applied AI at Rice University in Houston" width="100%">
+</p>
 
-I’m a Master of Computer Science student at Rice University in Houston, graduating in December 2027. I build backend systems and applied AI products, with experience in recoverable agent workflows, payment services, and retrieval-powered applications. I’m seeking software engineering and AI engineering internships in the U.S.
+<p align="center">
+  <a href="https://g1lollipop.github.io/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/herbert-yu-rice/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:hy75@rice.edu"><strong>Email</strong></a>
+</p>
 
-## Explore my work
+### Hi, I'm Herbert 👋
 
-- **[FitCore](https://github.com/G1lollipop/fitcore)** is a fitness and nutrition platform with conversational coaching and food logging from text, voice transcripts, and photos. [Try the live app](https://fitcore-web-eight.vercel.app/) (sign-in required).
-- **[Engineering portfolio](https://g1lollipop.github.io/)** brings together my experience, projects, education, and contact information. The [source is available here](https://github.com/G1lollipop/G1lollipop.github.io).
+I'm a Master of Computer Science student at Rice University. I enjoy building dependable backend systems and AI applications — from recoverable agent workflows and distributed scheduling to retrieval-powered products.
 
-My work spans Java and Go backend services, Python and FastAPI, PostgreSQL and Redis, and applied AI tools including LangGraph and retrieval systems. The portfolio has more detail about the problems I worked on and the decisions behind each project.
+I'm seeking software engineering and AI engineering internships in the U.S. and expect to graduate in December 2027.
 
-## Get in touch
+## Selected work
 
-[Email](mailto:hy75@rice.edu) · [LinkedIn](https://www.linkedin.com/in/herbert-yu-rice/) · [Portfolio](https://g1lollipop.github.io/)
+### [Atlas](https://github.com/G1lollipop/atlas) · Distributed systems
+
+Atlas is a Go job scheduler for heterogeneous CPU and GPU workloads. Starting from a Taskflow snapshot, I extended it with resource-aware placement, worker leases, recovery, and tracing. In local tests with simulated handlers, median whole-batch throughput increased from 25.0 jobs/s with one worker to 88.6 with eight.
+
+`Go` · `PostgreSQL` · `OpenTelemetry` · `Kubernetes`
+
+[Architecture](https://github.com/G1lollipop/atlas/blob/main/docs/ARCHITECTURE.md) · [Benchmarks and limitations](https://github.com/G1lollipop/atlas/blob/main/docs/BENCHMARKS.md) · [Recovery tests](https://github.com/G1lollipop/atlas/blob/main/docs/CHAOS.md)
+
+### [FitCore](https://github.com/G1lollipop/fitcore) · Applied AI
+
+FitCore is a fitness and nutrition platform that makes food logging easier through text, voice transcripts, and photos. Its coaching experience uses hybrid retrieval — combining vector search and BM25, with optional reranking — to bring relevant context into answers.
+
+`Next.js` · `FastAPI` · `Supabase` · `RAG`
+
+[Explore the code](https://github.com/G1lollipop/fitcore) · [Try the live app](https://fitcore-web-eight.vercel.app/) (sign-in required)
+
+## Open source
+
+I'm also interested in making AI infrastructure more reliable. These pull requests propose fixes with regression coverage:
+
+- **[LiteLLM #47053](https://github.com/BerriAI/litellm/pull/47053):** Make Enterprise permission rejections clearer for API users.
+- **[DeepEval #3478](https://github.com/confident-ai/deepeval/pull/3478):** Preserve voice fields when exporting conversation datasets.
+
+## My toolkit
+
+**Languages:** Go, Python, Java, TypeScript, SQL  
+**Backend & infrastructure:** FastAPI, Spring Boot, PostgreSQL, Redis, Docker, Kubernetes  
+**AI & retrieval:** LangGraph, LangSmith, RAG, pgvector
+
+More about my experience and projects on my [portfolio](https://g1lollipop.github.io/). If you'd like to connect, reach me at [hy75@rice.edu](mailto:hy75@rice.edu).
